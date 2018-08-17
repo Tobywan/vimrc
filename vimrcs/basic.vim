@@ -15,8 +15,8 @@ set autoread
 let mapleader = ","
 let g:mapleader = ","
 
-" Enable mouse events
-set mouse=a
+" Disable mouse events
+set mouse-=a
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
