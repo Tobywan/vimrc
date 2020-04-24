@@ -25,8 +25,8 @@ set mouse-=a
 set ruler
 
 " Show line numbers
-set relativenumber
-set number
+set norelativenumber
+set nonumber
 
 " Height of the command bar
 set cmdheight=2
