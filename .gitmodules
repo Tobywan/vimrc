@@ -36,10 +36,10 @@
 	url = git@github.com:tomasr/molokai.git
 [submodule "lib/vim-surround"]
 	path = lib/vim-surround
-	url = git://github.com/tpope/vim-surround.git
+	url = git@github.com:tpope/vim-surround.git
 [submodule "lib/vim-gitgutter"]
 	path = lib/vim-gitgutter
-	url = git://github.com/airblade/vim-gitgutter.git
+	url = git@github.com:airblade/vim-gitgutter.git
 [submodule "lib/vim-css-color"]
 	path = lib/vim-css-color
 	url = git@github.com:ap/vim-css-color.git
@@ -48,7 +48,7 @@
 	url = git@github.com:terryma/vim-multiple-cursors.git
 [submodule "lib/vim-pug"]
 	path = lib/vim-pug
-	url = git://github.com/digitaltoad/vim-pug.git
+	url = git@github.com:digitaltoad/vim-pug.git
 [submodule "lib/ack"]
 	path = lib/ack
 	url = git@github.com:mileszs/ack.vim.git
